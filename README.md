@@ -1,4 +1,7 @@
 # MTA-Metro
+
+A study was carried out to place the street teams in the best way possible by sticking to the scenario. Worked with metro hourly passenger data. 
+
 Scenario:
 
 It was very nice to meet and chat with you at the event, where we just met and had a nice chat. We would love to take the next steps together to see if working together makes sense for both parties.
@@ -13,4 +16,3 @@ Where we would like to ask for your help is to use MTA subway data, which I'm su
 
 The ball is now in your court, we will be eagerly awaiting the results of your work as soon as possible.
 
-A study was carried out to place the street teams in the best way possible by sticking to the scenario. Worked with metro hourly passenger data. 
